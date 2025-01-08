@@ -1,5 +1,4 @@
-# Powerbi-Dashboard Blinkit 
-# Project: Blinkit Analysis
+# Powerbi-Dashboards
 # Project: Blinkit Analysis
 
 ## Objective
